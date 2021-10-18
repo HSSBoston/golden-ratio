@@ -12,6 +12,8 @@ The golden ratio has been used in architecture, art (Mona Lisa, for example), gr
   <img src="images/logo.jpg" width="500" />
   <br>
   <img src="images/ukulele.jpg" width="500" />
+  <br>
+  <img src="images/hokusai.jpg" width="500" />
 </p>
 
 This code base is pushed to GitHub with Squeak's Git Browser ([Squot](https://github.com/hpi-swa/Squot)). It has been tested with Squeak 3.4 and 3.5. The GeoBot class is implemented by customizing a class that is covered in Stephane Ducasse's awesome book ["Squeak: Learn Programming with Robots"](https://smile.amazon.com/Squeak-Programming-Robots-Technology-Action/dp/1590594916/).
