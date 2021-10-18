@@ -6,7 +6,7 @@ This is a [Squeak Smalltalk](https://squeak.org/) implementation of simple algor
   <img src="images/golden-ratio-desktop.jpg" width="800" />
 </p>
 
-The golden ratio has been used in architecture, art (Mona Lisa, for example), grahical design (including logo design and web page design), product design (such as dimensional ratio for TVs, computer screens and credit cards) and many other areas. Using various curves made with the golden ratio, I created a logo for my own business, designed and built a ukulele, and painted [Hokusai](https://en.wikipedia.org/wiki/Hokusai)'s ["The Great Wave"](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa). 
+The golden ratio has been used in architecture, art (Mona Lisa, for example), grahical design (including logo design and web page design), product design (such as dimensional ratio for TVs, computer screens and credit cards) and many other areas. Using various curves made with the golden ratio, I created a logo for my own business and designed and built a ukulele. I also painted [Hokusai](https://en.wikipedia.org/wiki/Hokusai)'s ["The Great Wave"](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa), which uses the golden ratio and circles a lot. 
 
 <p align="center">
   <img src="images/logo.jpg" width="500" />
